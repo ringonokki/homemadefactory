@@ -1,3 +1,4 @@
+/*全体*/
 * {
     margin: 0;
     padding: 0;
@@ -40,6 +41,7 @@ section {
     padding: 50px 0;
 }
 
+/*header*/
 header {
     background-color: #a2e2e2;
     padding: 10px;
@@ -95,7 +97,7 @@ main {
     margin: 20px auto 70px 0;
     text-align: center;
 }
-
+/*top*/
 .top {
     background-image: url(img/top.jpg);
     background-size: cover;
@@ -124,6 +126,7 @@ strong {
     color: white;
 }
 
+/*news*/
 .news {
     width: 800px;
     margin: 50px auto;
@@ -153,6 +156,7 @@ strong {
     margin: 0 auto auto 0;
 }
 
+/*consept*/
 .consept {
     width: 800px;
     margin: 50px auto;
@@ -180,6 +184,7 @@ strong {
     width: 300px;
 }
 
+/*recipe*/
 .recipe {
     margin: 0 auto;
     background-color: white;
@@ -200,6 +205,7 @@ strong {
     margin: 40px auto;
 }
 
+/*lesson*/
 .lesson {
     background-image: url(img/img2.jpg);
     background-size: 100%;
@@ -216,6 +222,7 @@ strong {
     margin-top: 10px;
 }
 
+/*online*/
 .online {
     width: 800px;
     margin: 70px auto 0;
@@ -230,6 +237,7 @@ strong {
     width: 500px;
 }
 
+/*accese*/
 .accese {
     width: 800px;
     margin: 40px auto;
@@ -247,6 +255,7 @@ iframe {
     margin-left: 20px;
 }
 
+/*fin*/
 .fin {
     width: 250px;
     margin: 0 auto;
@@ -257,6 +266,7 @@ iframe {
     margin: 0 auto 50px;
 }
 
+/*footer*/
 footer {
     background-image: url(img/line.jpg);
     background-size: 100%;
