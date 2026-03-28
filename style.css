@@ -266,10 +266,6 @@ footer p {
     text-align: center;
 }
 /*レスポンシブスマホ*/
-@media(max-width:960px){
-
-}
-
 @media(max-width:768px){
 
 .contener {
