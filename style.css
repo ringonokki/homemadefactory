@@ -278,6 +278,7 @@ footer p {
 
 /*レスポンシブスマホ*/
 @media(max-width:768px){
+    
 /*全体*/
 .contener {
     margin: 20px auto;
@@ -292,7 +293,15 @@ footer p {
 section {
     padding: 30px 0;
 }
-    
+
+/*header*/
+nav {
+    display: block;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
 /*top*/
 .title {
     width: 90%;
